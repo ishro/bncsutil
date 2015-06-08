@@ -1,0 +1,1 @@
+The Battle.net client library, originally written by shadypalm88.
